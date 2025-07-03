@@ -4,6 +4,29 @@ This repository is a collection of project and research ideas that I’m passion
 
 
 
+# Contributing Guide
+
+Thank you for your interest in contributing!  
+This repository is a place to share, refine, and discuss research and project ideas. Collaboration is always welcome.
+
+## How to Contribute
+
+1. **Ideas and Suggestions**  
+   - If you have a new idea, feel free to open an Issue or a Discussion.  
+   - Suggestions for improving existing ideas are also welcome! But ensure that there are no existing solutions for the ideas proposed.
+   - If you find any solutions for the problem statements stated in the repo, feel free to open an issue, cite the solution paper/code/project and we can then associate the problem statement/idea with the solutions. 
+
+2. **Pull Requests**  
+   - If you want to contribute directly, fork the repo and submit a Pull Request.
+   - Please describe your changes clearly so everyone understands your contribution.
+
+3. **Feedback and Collaboration**  
+   - Constructive feedback, comments, and questions are highly encouraged.
+   - If you’re interested in collaborating on any idea, open an Issue or contact me directly.
+
+## Code of Conduct
+
+Please be respectful and constructive. Let’s keep this community positive and helpful for everyone.
 
 
 
